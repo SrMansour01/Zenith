@@ -1,0 +1,30 @@
+{
+  "name": "zenith-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+
+  "bin": {
+    "zenith": "./zenith-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrMansour01/zenith.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrMansour01/zenith/issues"
+  },
+  "homepage": "https://github.com/SrMansour01/zenith#readme",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
